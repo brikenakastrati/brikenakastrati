@@ -1,5 +1,5 @@
 ### Hi there, my name is Brikena 👋
-##I'm a computer engineering student
+## I'm a computer engineering student
 
 
 
