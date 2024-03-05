@@ -1,8 +1,5 @@
 ## Hi there, my name is Brikena 👋
 ### I'm a computer engineering student
-<html>
-  <body style="background-color: blue;"></body>
-</html>
 
 
 
