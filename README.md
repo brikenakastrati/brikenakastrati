@@ -1,6 +1,8 @@
-## Hi there, my name is Brikena 👋
-### I'm a computer engineering student
+## Hi, I'm Brikena! 👋
+### Computer Engineering Student | Aspiring Technologist
+#### Welcome to my GitHub profile! I'm passionate about all things technology, with a particular focus on computer engineering. Currently pursuing my degree, I'm eager to delve deeper into the world of software and hardware development, exploring the intricate intersection of code and circuits.
 
+#### Let's network:
 
 
 <!--
